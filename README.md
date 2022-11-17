@@ -1,11 +1,15 @@
 Proyecto base para el segundo reto
+# **flutter-**
 
-El código incluye comentarios que explican la estructura del proyecto y los puntos en los que se tiene que trabajar están marcados con un TODO.
+Proyecto en flutter cuyo objetivo es crear una home page que muestre datos del usuario y el resutado total de la cantidad de articulos seleccionados (articulos definidos previamente) para lo cual se tendran que definir las funciones de botones y crear metodos para interpretar la informacion suministrada haciendo uso de cambios de estados y funciones GetX
 
-El siguiente es un demo de la interfaz a la que se debe llegar (funcionalidades adicionales o mejoras a la interfaz son permitidas):
+****DEMO DE LA APLICACION****
 
-![shoppingApp](https://user-images.githubusercontent.com/4458129/173839525-218900ed-9bcd-4f6f-9158-0b02dd9d7707.gif)
+https://user-images.githubusercontent.com/114000553/202526351-ddde6523-d345-4be1-85a9-663cb8abd9f2.mp4
 
-Solución:
+# **INTEGRANTES DEL GRUPO DERARROLLADOR**
 
-https://github.com/MisionTIC4b/f_shopping_app
+- Jorge Mario Acevedo Salcedo
+- Jorge Alejandro González Rodríguez
+- Ivan Noguera Sáenz
+- William Benavidez Murcia
